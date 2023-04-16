@@ -12,13 +12,13 @@ body {
   background-position: left;
 }
 
-/* Mis trabajos */
+/* Fotos */
 
-#Mis-trabajos .image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+img {
+  height: 300px;
+  width: 500px;
+  object-fit: contain;
+
 }
 
 /* Contacto */
